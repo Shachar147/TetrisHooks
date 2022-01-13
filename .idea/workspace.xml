@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f0fc85c-ebc9-4d2e-b327-8bf0d746c686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react-tetris/src/components/styles/StyledDisplay.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-tetris/src/components/styles/StyledStartButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-tetris/src/hooks/usePlayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-tetris/src/hooks/useStage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-tetris/src/components/Cell.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-tetris/src/components/Cell.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-tetris/src/components/Display.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-tetris/src/components/Display.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-tetris/src/components/StartButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-tetris/src/components/StartButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-tetris/src/components/Tetris.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-tetris/src/components/Tetris.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642110269823</updated>
-      <workItem from="1642110271478" duration="6162000" />
+      <workItem from="1642110271478" duration="6942000" />
     </task>
     <servers />
   </component>
