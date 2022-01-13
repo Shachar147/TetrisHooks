@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Display = ({ type }) => (
-    <div>display</div>
+const Display = ({ gameOver, text }) => (
+    <div>{text}</div>
 );
 
 export default Display;
