@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f0fc85c-ebc9-4d2e-b327-8bf0d746c686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react-tetris/src/hooks/usePlayer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-tetris/src/hooks/useStage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-tetris/src/components/Tetris.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-tetris/src/components/Tetris.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-tetris/src/hooks/usePlayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-tetris/src/hooks/usePlayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-tetris/src/hooks/useStage.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-tetris/src/hooks/useStage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
