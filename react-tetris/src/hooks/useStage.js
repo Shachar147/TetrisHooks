@@ -32,7 +32,7 @@ export const useStage = (player, resetPlayer) => {
 
         setStage(prev => updateStage(prev));
 
-    }, [player.collided, player.pos.x, player.pos.y, player.tetromino]) // we specify all the things we're using inside the useEffect.
+    }, [player]) // we specify all the things we're using inside the useEffect.
 
     return [stage, setStage];
 };
